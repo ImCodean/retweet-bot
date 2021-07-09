@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@types/twit": "^2.2.30",
+    "twit": "^2.2.11"
+  }
+}
